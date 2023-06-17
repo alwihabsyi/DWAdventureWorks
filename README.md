@@ -1,4 +1,5 @@
 # DWAdventureWorks
+----------------------------------
 # Langkah-langkah yang harus dilakukan untuk menjalankan app:
 1. Install database server: MySql (disini kami menggunakan Xampp).
 2. Install software mysql management: phpMyAdmin dari Xampp.
